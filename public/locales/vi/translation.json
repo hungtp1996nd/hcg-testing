@@ -1,0 +1,19 @@
+{
+  "welcome": {
+    "title": "Chào mừng bạn đến với trang HCG testing...",
+    "redirect": "Vui lòng chọn Tasks trên thanh điều hướng phía trên để di chuyển đến trang quản lý nhiệm vụ"
+  },
+  "task": {
+    "create": "Tạo mới nhiệm vụ thành công",
+    "delete": "Đã xóa nhiệm vụ thành công",
+    "placeholder": "Thêm nhiệm vụ",
+    "createBtn": "Thêm nhiệm vụ",
+    "makeComplete": "Thay đổi trạng thái nhiệm vụ thành công!",
+    "blankValue": "Vui lòng không để ô input trống"
+  },
+  "filter": {
+    "all": "Tất cả",
+    "completed": "Đã hoàn thành",
+    "incomplete": "Chưa hoàn thành"
+  }
+}

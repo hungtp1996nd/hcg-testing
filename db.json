@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "name": "Do homework",
+      "isComplete": false,
+      "id": 1
+    },
+    {
+      "name": "Prepare dinner",
+      "isComplete": false,
+      "id": 2
+    },
+    {
+      "isComplete": true,
+      "name": "Respond to client emails",
+      "id": 3
+    },
+    {
+      "isComplete": false,
+      "name": "Breakfast and coffee",
+      "id": 4
+    },
+    {
+      "isComplete": true,
+      "name": "Update project documentation",
+      "id": 5
+    },
+    {
+      "name": "Reading book",
+      "isComplete": false,
+      "id": 6
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "welcome": {
+    "title": "Welcome to HCG testing page...",
+    "redirect": "Please select Tasks from top navigation to explore Task management page"
+  },
+  "task": {
+    "create": "🦄 Wow so easy!, task created",
+    "delete": "🦄 Wow so easy!, task deleted",
+    "placeholder": "Enter task",
+    "createBtn": "Add task",
+    "makeComplete": "Change complete status successfull!",
+    "blankValue": "Please do not leave the input box blank"
+  },
+  "filter": {
+    "all": "All",
+    "completed": "Completed",
+    "incomplete": "Incomplete"
+  }
+}
